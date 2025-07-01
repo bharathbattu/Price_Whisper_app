@@ -1,0 +1,14 @@
+
+/* Minimal reset and base styles */
+#root {
+  margin: 0 auto;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
