@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-**Project URL**: [Click Here](https://lovable.dev/projects/6772a25a-0318-4f18-ae5d-28c85895b42d)
-
 ### Developed by
 **B. Bharath Kumar**
 
